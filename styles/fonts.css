@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "MonumentExtended";
+	src: url("/assets/fonts/MonumentExtended-Regular.otf") format("opentype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "MonumentExtended";
+	src: url("/assets/fonts/MonumentExtended-Ultrabold.otf") format("opentype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Neue Haas Grotesk Display Pro";
+	src: url("/fonts/NeueHaasDisplayMediu.ttf") format("truetype");
+	font-weight: 500;
+}
